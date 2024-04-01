@@ -28,7 +28,7 @@ function verificarChute() {
         } else{
             exibirNaTela("p", "The secret number is bigger!");
         }
-        tries++
+        tries++;
         limparCampo();
     }
     }
